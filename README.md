@@ -1,7 +1,5 @@
 # SQL-business-insights
 
-# SQL Business Insights
-
 ## Project Overview
 
 This project demonstrates SQL techniques used to answer business questions from transactional sales data.

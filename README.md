@@ -1,5 +1,17 @@
-# SQL Business Insights
-
-SQL projects completed during my MBA in Business Analytics at Bryant University.
-
-This repository demonstrates how SQL can be used to answer business questions, analyze customer behavior, and generate actionable insights from transactional data.
+sql-business-insights
+│
+├── README.md
+│
+├── module-04-joins-subqueries
+│   ├── business_queries.sql
+│   └── assignment_overview.md
+│
+├── module-05-unions-data-modification
+│   ├── business_queries.sql
+│   └── assignment_overview.md
+│
+├── midterm-project
+│   ├── sql_queries.sql
+│   └── project_summary.md
+│
+└── screenshots

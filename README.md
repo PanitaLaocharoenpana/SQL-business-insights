@@ -43,15 +43,9 @@ The analysis includes:
 - INNER JOIN
 - LEFT OUTER JOIN
 
-## Files
-
-- business_queries.sql
-- project_summary.pdf
-
 ## Tools
 
 - MySQL
-- SQL
 
 ## Key Takeaway
 
